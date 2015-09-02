@@ -1,0 +1,5 @@
+This is a test
+This is a test
+This file will be used to test the creation of a command to find the 10 most popular words in a file. This will be done with the use of Unix command ´provided by cygwin
+teeeest
+t t t t
